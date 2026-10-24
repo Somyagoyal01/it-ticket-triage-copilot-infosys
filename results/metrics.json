@@ -1,0 +1,36 @@
+{
+  "generated_test": {
+    "n": 400,
+    "category_accuracy": 1.0,
+    "kb_hit@1": 0.953,
+    "kb_hit@3": 0.953,
+    "auto_suggest_rate": 0.94,
+    "auto_suggest_precision": 1.0,
+    "kb_misses": [
+      "hello, need permission for erp module again",
+      "hi team, pc hangs frequently",
+      "issue: need permission for erp module since today",
+      "hello, need permission for erp module again",
+      "please help, pc hangs frequently again",
+      "hello, pc hangs frequently - blocking my work",
+      "urgent: need permission for erp module - blocking my work",
+      "please help, c drive almost full since today",
+      "hard drive full since today",
+      "hi team, hard drive full since today"
+    ]
+  },
+  "heldout_handwritten": {
+    "n": 20,
+    "category_accuracy": 0.85,
+    "kb_hit@1": 0.8,
+    "kb_hit@3": 0.85,
+    "auto_suggest_rate": 0.75,
+    "auto_suggest_precision": 0.933,
+    "kb_misses": [
+      "cant get on the corporate network from home, the globalprotect thing just spins",
+      "C drive is red, only 300 MB left",
+      "machine hangs every time I open excel and chrome together",
+      "how do I get Notepad++ on my laptop"
+    ]
+  }
+}
