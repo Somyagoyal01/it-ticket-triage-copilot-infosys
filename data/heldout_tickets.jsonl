@@ -1,0 +1,20 @@
+{"text": "cant get on the corporate network from home, the globalprotect thing just spins", "category": "network", "kb": "KB-VPN"}
+{"text": "Locked out after I typed my pwd wrong too many times, pls help urgent", "category": "access", "kb": "KB-PWD"}
+{"text": "new phone, no longer getting the approve sign-in notification", "category": "access", "kb": "KB-MFA"}
+{"text": "my emails are sitting in outbox since morning", "category": "email", "kb": "KB-MAIL"}
+{"text": "C drive is red, only 300 MB left", "category": "hardware", "kb": "KB-DISK"}
+{"text": "machine hangs every time I open excel and chrome together", "category": "hardware", "kb": "KB-SLOW"}
+{"text": "3rd floor printer shows my job but nothing comes out", "category": "hardware", "kb": "KB-PRINT"}
+{"text": "need FICO display role in production S4 for month end close", "category": "access", "kb": "KB-SAP"}
+{"text": "how do I get Notepad++ on my laptop", "category": "software", "kb": "KB-SW"}
+{"text": "others can't hear me in meetings though mic works elsewhere", "category": "software", "kb": "KB-TEAMS"}
+{"text": "orders service throwing ORA-12541 since 10am", "category": "application", "kb": "KB-DB"}
+{"text": "jenkins job for payments-api red after merge, maven can't resolve artifact", "category": "application", "kb": "KB-BUILD"}
+{"text": "Outlook keeps asking for credentials and won't download new mails", "category": "email", "kb": "KB-MAIL"}
+{"text": "authenticator codes rejected at login", "category": "access", "kb": "KB-MFA"}
+{"text": "VPN disconnects every 5 minutes on hotel wifi", "category": "network", "kb": "KB-VPN"}
+{"text": "laptop fan loud and everything super laggy", "category": "hardware", "kb": "KB-SLOW"}
+{"text": "need python 3.12 installed for a training course", "category": "software", "kb": "KB-SW"}
+{"text": "camera not detected in teams call, shows black screen", "category": "software", "kb": "KB-TEAMS"}
+{"text": "deployment to UAT failing at the docker push step", "category": "application", "kb": "KB-BUILD"}
+{"text": "access to the ariba approver role please, my manager agreed", "category": "access", "kb": "KB-SAP"}
